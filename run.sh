@@ -1,0 +1,2 @@
+CUDA_VISIBLE_DEVICES=3 taskset -c 18-24 python inference_realviformer.py --model_path ../RealViformer_inference/weights.pth --input_path /home/yuehan/Dataset/VSR/RealVSR/LQ_test_downsampled --save_path results/RealTransformer_chcompress_masked_gan_REDS/RealVSR_downsampled
+# CUDA_VISIBLE_DEVICES=4 taskset -c 92-104 python inference_realtransformer.py --model_path weights.pth --input_path dataset_dir --save_path dir --opt options/train/RealTransformer/train_RealTransformer_chcompress_masked_gan_REDS.yml
