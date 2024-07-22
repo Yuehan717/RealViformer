@@ -1,6 +1,6 @@
 # [ECCV 2024] RealViformer
 ### RealViformer: Investigating Attention for Real-World Video Super-Resolution
-[![arXiv](https://img.shields.io/badge/arXiv-<INDEX>-<COLOR>.svg)](https://arxiv.org/abs/<INDEX>)    
+[![arXiv](https://img.shields.io/badge/arXiv-2407.13987-<COLOR>.svg)](https://arxiv.org/abs/2407.13987)    
 Yuehan Zhang, Angela Yao  
 National University of Singapore
 
@@ -11,7 +11,7 @@ In this paper, we focus on investigating spatial and channel attention under rea
 - to validate our findings, we derive RealViformer, a channel-attention-based Transformer for RWVSR, with a simple but improved transformer block design.
 
 ## TODOs
-- Public the repository
+- <del>Public the repository</del>
 - Update links to datasets
 - Add video results
 
